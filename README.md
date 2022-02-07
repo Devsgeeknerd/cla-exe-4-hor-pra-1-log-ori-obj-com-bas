@@ -1,19 +1,67 @@
+<!-- TITLE -->
 # O que é HTML?
 
-- *HTML* — é uma linguagem de marcação utilizada na construção de páginas na Web.
+* ***HTML***
+  * É uma linguagen de marcação utilizada na costrução de páginas na *Web*.
 
-## Informações
+<!-- TABLE OF CONTENTS -->
+## TABELA DE CONTEÚDO
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.o-que-e-html "Total de Visitas")
+<!-- - [Vista por cima](#vista-por-cima) -->
+<!--  - [Foto da tela](#foto-da-tela) -->
+<!--  - [Links](#links) -->
+<!-- - [Meu processo](#meu-processo) -->
+<!--  - [Contruido com](#construido-com) -->
+<!--  - [O que aprendi](#o-que-aprendi) -->
+<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  - [Recusos úteis](#recursos-úteis) -->
+<!-- - [Autor](#autor) -->
+<!-- - [Agradecimentos](#agradecimentos) -->
+- [Informações](#informações)
+
+<!-- OVERVIEW -->
+<!-- ## VISTA POR CIMA -->
+
+<!-- SCREENSHOT -->
+<!-- ### FOTO DA TELA -->
+
+<!-- LINKS -->
+<!-- ### LINKS -->
+
+<!-- MY PROCESS -->
+<!-- ## MEU PROCESSO -->
+
+<!-- BUILT WITH -->
+<!-- ### CONSTRUIDO COM -->
+
+<!-- WHAT I LEARNED -->
+<!-- ### O QUE APRENDI -->
+
+<!-- CONTINUED DEVELOPMENT -->
+<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+
+<!-- USEFUL RESOURCES -->
+<!-- ### RECURSOS ÚTEIS -->
+
+<!-- AUTHOR -->
+<!-- ## AUTOR -->
+
+<!-- ACKNOWLEDGMENTS -->
+<!-- ## AGRADECIMENTOS -->
+
+<!-- INFORMATION -->
+## INFORMAÇÕES
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fo-que-e-html&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/o-que-e-html?style=social "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/o-que-e-html?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/o-que-e-html?style=social "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/o-que-e-html?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/o-que-e-html?style=social "Total de Forks")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/o-que-e-html?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/o-que-e-html?style=social "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/o-que-e-html?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/o-que-e-html?style=social "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/o-que-e-html?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
