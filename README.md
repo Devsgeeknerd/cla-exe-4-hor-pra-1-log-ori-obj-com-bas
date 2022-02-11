@@ -2,7 +2,7 @@
 # O que é HTML?
 
 * ***HTML***
-  * É uma linguagen de marcação utilizada na costrução de páginas na *Web*.
+> É uma linguagen de marcação utilizada na costrução de páginas na *Web*.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
