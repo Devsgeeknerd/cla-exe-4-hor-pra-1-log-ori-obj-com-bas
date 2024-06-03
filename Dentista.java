@@ -11,5 +11,6 @@ public class Dentista {
     this.nome = nome;
     this.sobrenome = sobrenome;
     this.especialidade = especialidade;
+    this.inscricaoCRO = inscricaoCRO;
   }
 }
