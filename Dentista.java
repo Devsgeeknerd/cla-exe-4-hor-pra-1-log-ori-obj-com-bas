@@ -27,6 +27,7 @@ public class Dentista {
     if (estado) {
       System.out.println("Consulta marcada com " + nome + " " + sobrenome + ".");
     } else {
+      System.out.println(nome + " " + sobrenome + " não esta ativo para marcar consultas.");
     }
   }
 }
