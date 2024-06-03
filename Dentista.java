@@ -32,5 +32,7 @@ public class Dentista {
   }
 
   public void remarcarConsulta() {
+    if (estado) {
+    }
   }
 }
