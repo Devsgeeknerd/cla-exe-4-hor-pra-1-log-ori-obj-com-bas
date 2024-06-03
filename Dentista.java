@@ -14,4 +14,7 @@ public class Dentista {
     this.inscricaoCRO = inscricaoCRO;
     this.estado = estado;
   }
+
+  public void atenderPaciente() {
+  }
 }
