@@ -7,6 +7,6 @@ public class Dentista {
   private String inscricaoCRO;
   private boolean estado;
 
-  public Dentista(String nome) {
+  public Dentista(String nome, String sobrenome) {
   }
 }
