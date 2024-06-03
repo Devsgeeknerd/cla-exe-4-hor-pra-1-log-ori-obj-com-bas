@@ -22,4 +22,7 @@ public class Dentista {
       System.out.println(nome + " " + sobrenome + " não esta ativo para atender pacientes.");
     }
   }
+
+  public void marcarConsulta() {
+  }
 }
