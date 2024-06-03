@@ -9,5 +9,6 @@ public class Dentista {
 
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
+    this.sobrenome = sobrenome;
   }
 }
