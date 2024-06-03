@@ -24,5 +24,7 @@ public class Dentista {
   }
 
   public void marcarConsulta() {
+    if (estado) {
+    }
   }
 }
