@@ -8,5 +8,6 @@ public class Dentista {
   private boolean estado;
 
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
+    this.nome = nome;
   }
 }
