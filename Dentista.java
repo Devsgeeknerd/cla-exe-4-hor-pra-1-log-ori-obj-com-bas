@@ -17,6 +17,7 @@ public class Dentista {
 
   public void atenderPaciente() {
     if (estado) {
+      System.out.println(nome + " " + sobrenome + " esta atendendo um paciente.");
     }
   }
 }
