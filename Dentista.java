@@ -5,4 +5,5 @@ public class Dentista {
   private String sobrenome;
   private String especialidade;
   private String inscricaoCRO;
+  private boolean estado;
 }
