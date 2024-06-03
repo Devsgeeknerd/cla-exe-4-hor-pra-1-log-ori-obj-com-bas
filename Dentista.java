@@ -16,5 +16,7 @@ public class Dentista {
   }
 
   public void atenderPaciente() {
+    if (estado) {
+    }
   }
 }
