@@ -30,4 +30,7 @@ public class Dentista {
       System.out.println(nome + " " + sobrenome + " não esta ativo para marcar consultas.");
     }
   }
+
+  public void remarcarConsulta() {
+  }
 }
