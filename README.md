@@ -9,7 +9,11 @@ Devido o sempre ótimo trabalho, foi requerida uma última tarefa.
 
 É importante que todos as ações possam ser executadas.
 
-[Resolução.](Programa.java)
+Resolução:
+
+1. [Dentista.](Dentista.java)
+2. [Paciente.](Paciente.java)
+3. [Programa.](Programa.java)
 
 <!-- Informações -->
 ## &#8505; Informações
