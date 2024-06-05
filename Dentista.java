@@ -7,6 +7,10 @@ public class Dentista {
   private String inscricaoCRO;
   private boolean estado;
 
+  public String getNome() {
+    return nome;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
