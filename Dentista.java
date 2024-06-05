@@ -11,6 +11,10 @@ public class Dentista {
     return nome;
   }
 
+  public void setNome(String nome) {
+    this.nome = nome;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
