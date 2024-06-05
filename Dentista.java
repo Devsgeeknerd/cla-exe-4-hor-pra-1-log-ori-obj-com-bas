@@ -48,6 +48,6 @@ public class Dentista {
   }
 
   public void viajarCongresso() {
-    System.out.println();
+    System.out.println(nome + " " + sobrenome + " esta indisponível por estar em um congresso.");
   }
 }
