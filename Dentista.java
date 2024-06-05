@@ -38,4 +38,7 @@ public class Dentista {
       System.out.println(nome + " " + sobrenome + " não esta ativo para remarcar consultas.");
     }
   }
+
+  public void cancelarConsulta() {
+  }
 }
