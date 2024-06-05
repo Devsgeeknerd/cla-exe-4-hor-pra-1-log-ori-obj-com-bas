@@ -23,7 +23,7 @@ public class Dentista {
     this.sobrenome = sobrenome;
   }
 
-  public Srting getEspecialidade() {
+  public String getEspecialidade() {
     return especialidade;
   }
 
