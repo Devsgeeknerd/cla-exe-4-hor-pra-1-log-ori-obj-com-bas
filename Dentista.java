@@ -46,4 +46,7 @@ public class Dentista {
       System.out.println(nome + " " + sobrenome + " não esta ativo para cancelar consultas.");
     }
   }
+
+  public void viajarCongresso() {
+  }
 }
