@@ -41,6 +41,7 @@ public class Dentista {
 
   public void cancelarConsulta() {
     if (estado) {
+      System.out.println();
     }
   }
 }
