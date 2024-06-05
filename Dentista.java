@@ -48,5 +48,6 @@ public class Dentista {
   }
 
   public void viajarCongresso() {
+    System.out.println();
   }
 }
