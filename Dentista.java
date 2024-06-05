@@ -35,6 +35,7 @@ public class Dentista {
     if (estado) {
       System.out.println("Consulta remarcada com " + nome + " " + sobrenome + ".");
     } else {
+      System.out.println();
     }
   }
 }
