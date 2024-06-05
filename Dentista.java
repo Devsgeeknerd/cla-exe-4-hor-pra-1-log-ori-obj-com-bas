@@ -15,6 +15,10 @@ public class Dentista {
     this.nome = nome;
   }
 
+  public String getSobrenome() {
+    return sobrenome;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
