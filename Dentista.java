@@ -48,6 +48,7 @@ public class Dentista {
   }
 
   public void viajarCongresso() {
+    estado = false;
     System.out.println(nome + " " + sobrenome + " esta indisponível por estar em um congresso.");
   }
 }
