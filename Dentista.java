@@ -43,6 +43,7 @@ public class Dentista {
     if (estado) {
       System.out.println("Consulta cancelada com " + nome + " " + sobrenome + ".");
     } else {
+      System.out.println();
     }
   }
 }
