@@ -27,6 +27,10 @@ public class Dentista {
     return especialidade;
   }
 
+  public void setEspecialidade(String especialidade) {
+    this.especialidade = especialidade;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
