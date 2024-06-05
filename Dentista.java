@@ -23,6 +23,10 @@ public class Dentista {
     this.sobrenome = sobrenome;
   }
 
+  public Srting getEspecialidade() {
+    return especialidade;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
