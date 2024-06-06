@@ -31,19 +31,19 @@ public class Dentista {
     this.especialidade = especialidade;
   }
 
-  public String getInscricaoCRO(){
+  public String getInscricaoCRO() {
     return inscricaoCRO;
   }
 
-  public void setInscricaoCRO(String inscricaoCRO){
+  public void setInscricaoCRO(String inscricaoCRO) {
     this.inscricaoCRO = inscricaoCRO;
   }
 
-  public boolean isEstado(){
+  public boolean isEstado() {
     return estado;
   }
 
-  public void setEstado(boolean estado){
+  public void setEstado(boolean estado) {
     this.estado = estado;
   }
 
