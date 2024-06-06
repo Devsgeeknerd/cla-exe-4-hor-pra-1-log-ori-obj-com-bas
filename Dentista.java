@@ -43,6 +43,10 @@ public class Dentista {
     return estado;
   }
 
+  public void setEstado(boolean estado){
+    this.estado = estado;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
