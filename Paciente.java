@@ -8,4 +8,8 @@ public class Paciente {
   private String sexo;
   private String telefone;
   private String endereco;
+
+  public int getCodigo() {
+    return codigo;
+  }
 }
