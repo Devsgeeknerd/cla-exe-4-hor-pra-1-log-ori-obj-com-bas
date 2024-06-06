@@ -24,4 +24,8 @@ public class Paciente {
   public void setNome(String nome) {
     this.nome = nome;
   }
+
+  public String getSobrenome() {
+    return sobrenome;
+  }
 }
