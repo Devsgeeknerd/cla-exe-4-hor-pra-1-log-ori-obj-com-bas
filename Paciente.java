@@ -7,4 +7,5 @@ public class Paciente {
   private int idade;
   private String sexo;
   private String telefone;
+  private String endereco;
 }
