@@ -1,3 +1,5 @@
 package br.com.devsgeeknerd.consultorio;
 
-public class Paciente{}
+public class Paciente {
+  private int codigo;
+}
