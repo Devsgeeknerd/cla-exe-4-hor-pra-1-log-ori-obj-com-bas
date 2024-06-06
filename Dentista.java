@@ -31,6 +31,10 @@ public class Dentista {
     this.especialidade = especialidade;
   }
 
+  public String getInscricaoCRO(){
+    return inscricaoCRO;
+  }
+
   public Dentista(String nome, String sobrenome, String especialidade, String inscricaoCRO, boolean estado) {
     this.nome = nome;
     this.sobrenome = sobrenome;
