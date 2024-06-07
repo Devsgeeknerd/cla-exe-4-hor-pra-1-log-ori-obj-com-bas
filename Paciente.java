@@ -64,4 +64,7 @@ public class Paciente {
   public void setEndereco(String enderenco) {
     this.endereco = enderenco;
   }
+
+  public Paciente() {
+  }
 }
