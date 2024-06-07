@@ -72,5 +72,6 @@ public class Paciente {
     this.sobrenome = sobrenome;
     this.idade = idade;
     this.sexo = sexo;
+    this.telefone = telefone;
   }
 }
