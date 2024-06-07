@@ -14,5 +14,6 @@ public class Programa {
     dentista1.viajarCongresso();
 
     Dentista dentista2 = new Dentista("Vanderley", "Paris", "Endodontia", "CRO1597563", true);
+    dentista2.atenderPaciente();
   }
 }
