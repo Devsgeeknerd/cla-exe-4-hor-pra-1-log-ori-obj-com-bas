@@ -61,17 +61,18 @@ public class Paciente {
     return endereco;
   }
 
-  public void setEndereco(String enderenco) {
-    this.endereco = enderenco;
+  public void setEndereco(String endereco) {
+    this.endereco = endereco;
   }
 
   public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
-      String enderenco) {
+      String endereco) {
     this.codigo = codigo;
     this.nome = nome;
     this.sobrenome = sobrenome;
     this.idade = idade;
     this.sexo = sexo;
     this.telefone = telefone;
+    this.endereco = endereco;
   }
 }
