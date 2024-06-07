@@ -1,4 +1,4 @@
-package br.com.devsgeeknerd.consultorio;
+package br.com.devsgeeknerd.programa;
 
 import br.com.devsgeeknerd.Dentista;
 import br.com.devsgeeknerd.Paciente;
