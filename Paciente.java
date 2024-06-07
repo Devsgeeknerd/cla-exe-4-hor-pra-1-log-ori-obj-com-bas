@@ -60,4 +60,8 @@ public class Paciente {
   public String getEndereco() {
     return endereco;
   }
+
+  public void setEndereco(String enderenco) {
+    this.endereco = enderenco;
+  }
 }
