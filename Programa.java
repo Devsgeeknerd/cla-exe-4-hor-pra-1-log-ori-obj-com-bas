@@ -9,5 +9,6 @@ public class Programa {
     Dentista dentista1 = new Dentista("Paulo", "Albino", "Ortodontia", "CRO8852398", true);
     dentista1.atenderPaciente();
     dentista1.marcarConsulta();
+    dentista1.remarcarConsulta();
   }
 }
