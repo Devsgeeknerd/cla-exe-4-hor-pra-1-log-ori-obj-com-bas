@@ -32,4 +32,8 @@ public class Paciente {
   public void setSobrenome(String sobrenome) {
     this.sobrenome = sobrenome;
   }
+
+  public int getIdade() {
+    return idade;
+  }
 }
