@@ -65,6 +65,7 @@ public class Paciente {
     this.endereco = enderenco;
   }
 
-  public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone) {
+  public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
+      String enderenco) {
   }
 }
