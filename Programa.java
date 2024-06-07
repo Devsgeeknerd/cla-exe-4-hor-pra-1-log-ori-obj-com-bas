@@ -8,5 +8,6 @@ public class Programa {
     System.out.println("Testando a classe Dentista:");
     Dentista dentista1 = new Dentista("Paulo", "Albino", "Ortodontia", "CRO8852398", true);
     dentista1.atenderPaciente();
+    dentista1.marcarConsulta();
   }
 }
