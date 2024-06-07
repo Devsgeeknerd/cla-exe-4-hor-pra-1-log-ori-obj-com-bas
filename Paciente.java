@@ -65,6 +65,6 @@ public class Paciente {
     this.endereco = enderenco;
   }
 
-  public Paciente() {
+  public Paciente(int codigo) {
   }
 }
