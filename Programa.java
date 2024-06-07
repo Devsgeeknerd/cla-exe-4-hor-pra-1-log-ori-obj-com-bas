@@ -1,6 +1,7 @@
 package br.com.devsgeeknerd.consultorio;
 
-import br.com.devsgeeknerd.dentista;
+import br.com.devsgeeknerd.Dentista;
+import br.com.devsgeeknerd.Paciente;
 
 public class Programa {
   public static void programa(String[] args) {
