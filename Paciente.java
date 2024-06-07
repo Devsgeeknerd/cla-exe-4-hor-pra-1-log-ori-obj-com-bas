@@ -81,5 +81,6 @@ public class Paciente {
   }
 
   public void remarcarConsulta() {
+    System.out.println("Consulta remarcada para o paciente " + nome + " " + sobrenome + ".");
   }
 }
