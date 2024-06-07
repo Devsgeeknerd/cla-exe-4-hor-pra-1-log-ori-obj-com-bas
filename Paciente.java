@@ -89,5 +89,6 @@ public class Paciente {
   }
 
   public void consultarConsulta() {
+    System.out.println("Consulta consultada para o paciente " + nome + " " + sobrenome + ".");
   }
 }
