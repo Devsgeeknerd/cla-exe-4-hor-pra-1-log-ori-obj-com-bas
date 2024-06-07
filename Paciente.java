@@ -77,5 +77,6 @@ public class Paciente {
   }
 
   public void marcarConsulta() {
+    System.out.println("Consulta marcada para o paciente " + nome + " " + sobrenome + ".");
   }
 }
