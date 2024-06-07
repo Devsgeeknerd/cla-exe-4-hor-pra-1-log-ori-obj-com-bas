@@ -87,4 +87,7 @@ public class Paciente {
   public void cancelarConsulta() {
     System.out.println("Consulta cancelada para o paciente " + nome + " " + sobrenome + ".");
   }
+
+  public void consultarConsulta() {
+  }
 }
