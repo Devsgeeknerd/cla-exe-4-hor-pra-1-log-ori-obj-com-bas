@@ -69,5 +69,6 @@ public class Paciente {
       String enderenco) {
     this.codigo = codigo;
     this.nome = nome;
+    this.sobrenome = sobrenome;
   }
 }
