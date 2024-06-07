@@ -68,5 +68,6 @@ public class Paciente {
   public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
       String enderenco) {
     this.codigo = codigo;
+    this.nome = nome;
   }
 }
