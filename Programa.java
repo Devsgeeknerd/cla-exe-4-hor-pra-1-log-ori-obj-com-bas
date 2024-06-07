@@ -12,5 +12,7 @@ public class Programa {
     dentista1.remarcarConsulta();
     dentista1.cancelarConsulta();
     dentista1.viajarCongresso();
+
+    Dentista dentista2 = new Dentista("Vanderley", "Paris", "Endodontia", "CRO1597563", true);
   }
 }
