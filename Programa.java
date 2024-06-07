@@ -1,5 +1,7 @@
 package br.com.devsgeeknerd.consultorio;
 
+import br.com.devsgeeknerd.dentista;
+
 public class Programa {
   public static void programa(String[] args) {
     System.out.println("Testando a classe Dentista:");
