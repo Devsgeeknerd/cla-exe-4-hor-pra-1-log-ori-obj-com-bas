@@ -75,4 +75,7 @@ public class Paciente {
     this.telefone = telefone;
     this.endereco = endereco;
   }
+
+  public void marcarConsulta() {
+  }
 }
