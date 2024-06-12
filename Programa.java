@@ -27,5 +27,6 @@ public class Programa {
     Paciente paciente1 = new Paciente(1, "Siri", "Apple", 18, "feminino", "95123698741", "Rua Chicago Fire, B3");
     paciente1.marcarConsulta();
     paciente1.remarcarConsulta();
+    paciente1.cancelarConsulta();
   }
 }
