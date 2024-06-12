@@ -20,5 +20,7 @@ public class Programa {
     dentista2.cancelarConsulta();
     dentista2.viajarCongresso();
     dentista2.atenderPaciente();
+
+    System.out.println();
   }
 }
