@@ -25,5 +25,6 @@ public class Programa {
 
     System.out.println("Testando a classe Paciente:");
     Paciente paciente1 = new Paciente(1, "Siri", "Apple", 18, "feminino", "95123698741", "Rua Chicago Fire, B3");
+    paciente1.marcarConsulta();
   }
 }
