@@ -22,5 +22,7 @@ public class Programa {
     dentista2.atenderPaciente();
 
     System.out.println();
+
+    System.out.println("Testando a classe Paciente:");
   }
 }
