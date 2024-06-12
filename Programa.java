@@ -32,5 +32,6 @@ public class Programa {
 
     Paciente paciente2 = new Paciente(2, "Cortana", "Microsoft", 21, "feminino", "75321478963", "Rua Texas New, A3");
     paciente2.marcarConsulta();
+    paciente2.remarcarConsulta();
   }
 }
