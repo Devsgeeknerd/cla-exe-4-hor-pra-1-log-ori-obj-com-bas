@@ -28,5 +28,6 @@ public class Programa {
     paciente1.marcarConsulta();
     paciente1.remarcarConsulta();
     paciente1.cancelarConsulta();
+    paciente1.consultarConsulta();
   }
 }
