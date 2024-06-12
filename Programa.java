@@ -19,5 +19,6 @@ public class Programa {
     dentista2.remarcarConsulta();
     dentista2.cancelarConsulta();
     dentista2.viajarCongresso();
+    dentista2.atenderPaciente();
   }
 }
