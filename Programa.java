@@ -29,5 +29,7 @@ public class Programa {
     paciente1.remarcarConsulta();
     paciente1.cancelarConsulta();
     paciente1.consultarConsulta();
+
+    Paciente paciente2 = new Paciente(2, "Cortana", "Microsoft", 21, "feminino", "75321478963", "Rua Texas New, A3");
   }
 }
