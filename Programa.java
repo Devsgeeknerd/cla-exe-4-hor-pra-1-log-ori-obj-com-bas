@@ -16,5 +16,6 @@ public class Programa {
     Dentista dentista2 = new Dentista("Vanderley", "Paris", "Endodontia", "CRO1597563", true);
     dentista2.atenderPaciente();
     dentista2.marcarConsulta();
+    dentista2.remarcarConsulta();
   }
 }
