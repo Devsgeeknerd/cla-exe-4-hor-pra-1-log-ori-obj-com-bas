@@ -34,5 +34,6 @@ public class Programa {
     paciente2.marcarConsulta();
     paciente2.remarcarConsulta();
     paciente2.cancelarConsulta();
+    paciente2.consultarConsulta();
   }
 }
